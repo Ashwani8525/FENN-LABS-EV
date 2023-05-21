@@ -41,7 +41,7 @@ The costliest EV car is by Tesla.
 The cheapest EV car is by SEAT.
 
 
-Cluster2 has the msot plotpoints in AcceSec.
+Cluster2 has the most plotpoints in AcceSec.
 
 
 As the Acceleration/Sec Decrease the pirce of the car Increase
@@ -60,7 +60,7 @@ MARKETING MIX
 -Average Price in INR range between[Rs. 25,00,000 - Rs. 50,00,000].
 
 
--Most of the production is of SUv AND Hatchback BodyStyle vechicles.
+-Most of the production is of SUV AND Hatchback BodyStyle vechicles.
 
 
 -Most of the production is with the Rapid Charge Feature.
